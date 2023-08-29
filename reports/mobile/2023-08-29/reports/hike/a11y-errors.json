@@ -1,0 +1,325 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-98-TH",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,0,TH",
+            "selector": "table > thead > tr > th.fc-day-header",
+            "boundingRect": {
+              "top": 2686,
+              "bottom": 2710,
+              "left": 28,
+              "right": 79,
+              "width": 51,
+              "height": 24
+            },
+            "snippet": "<th class=\"fc-day-header fc-widget-header fc-sun\">",
+            "nodeLabel": "Sun",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-99-TH",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,1,TH",
+            "selector": "table > thead > tr > th.fc-day-header",
+            "boundingRect": {
+              "top": 2686,
+              "bottom": 2710,
+              "left": 79,
+              "right": 130,
+              "width": 51,
+              "height": 24
+            },
+            "snippet": "<th class=\"fc-day-header fc-widget-header fc-mon\">",
+            "nodeLabel": "Mon",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-100-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,2,TH,0,SPAN",
+            "selector": "thead > tr > th.fc-day-header > span",
+            "boundingRect": {
+              "top": 2688,
+              "bottom": 2707,
+              "left": 142,
+              "right": 169,
+              "width": 27,
+              "height": 19
+            },
+            "snippet": "<span>",
+            "nodeLabel": "Tue",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-101-TH",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,2,TH",
+                  "selector": "table > thead > tr > th.fc-day-header",
+                  "boundingRect": {
+                    "top": 2686,
+                    "bottom": 2710,
+                    "left": 130,
+                    "right": 181,
+                    "width": 51,
+                    "height": 24
+                  },
+                  "snippet": "<th class=\"fc-day-header fc-widget-header fc-tue\">",
+                  "nodeLabel": "Tue"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-102-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,3,TH,0,SPAN",
+            "selector": "thead > tr > th.fc-day-header > span",
+            "boundingRect": {
+              "top": 2688,
+              "bottom": 2707,
+              "left": 189,
+              "right": 223,
+              "width": 34,
+              "height": 19
+            },
+            "snippet": "<span>",
+            "nodeLabel": "Wed",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-103-TH",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,3,TH",
+                  "selector": "table > thead > tr > th.fc-day-header",
+                  "boundingRect": {
+                    "top": 2686,
+                    "bottom": 2710,
+                    "left": 181,
+                    "right": 231,
+                    "width": 51,
+                    "height": 24
+                  },
+                  "snippet": "<th class=\"fc-day-header fc-widget-header fc-wed\">",
+                  "nodeLabel": "Wed"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-104-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,4,TH,0,SPAN",
+            "selector": "thead > tr > th.fc-day-header > span",
+            "boundingRect": {
+              "top": 2688,
+              "bottom": 2707,
+              "left": 242,
+              "right": 271,
+              "width": 29,
+              "height": 19
+            },
+            "snippet": "<span>",
+            "nodeLabel": "Thu",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-105-TH",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,4,TH",
+                  "selector": "table > thead > tr > th.fc-day-header",
+                  "boundingRect": {
+                    "top": 2686,
+                    "bottom": 2710,
+                    "left": 231,
+                    "right": 282,
+                    "width": 51,
+                    "height": 24
+                  },
+                  "snippet": "<th class=\"fc-day-header fc-widget-header fc-thu\">",
+                  "nodeLabel": "Thu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-106-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,5,TH,0,SPAN",
+            "selector": "thead > tr > th.fc-day-header > span",
+            "boundingRect": {
+              "top": 2688,
+              "bottom": 2707,
+              "left": 298,
+              "right": 317,
+              "width": 19,
+              "height": 19
+            },
+            "snippet": "<span>",
+            "nodeLabel": "Fri",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-107-TH",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,5,TH",
+                  "selector": "table > thead > tr > th.fc-day-header",
+                  "boundingRect": {
+                    "top": 2686,
+                    "bottom": 2710,
+                    "left": 282,
+                    "right": 333,
+                    "width": 51,
+                    "height": 24
+                  },
+                  "snippet": "<th class=\"fc-day-header fc-widget-header fc-fri\">",
+                  "nodeLabel": "Fri"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-108-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,6,TH,0,SPAN",
+            "selector": "thead > tr > th.fc-day-header > span",
+            "boundingRect": {
+              "top": 2688,
+              "bottom": 2707,
+              "left": 347,
+              "right": 371,
+              "width": 23,
+              "height": 19
+            },
+            "snippet": "<span>",
+            "nodeLabel": "Sat",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.48 (foreground color: #ffffff, background color: #cbd5e0, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-109-TH",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,0,THEAD,0,TR,0,TD,0,DIV,0,TABLE,0,THEAD,0,TR,6,TH",
+                  "selector": "table > thead > tr > th.fc-day-header",
+                  "boundingRect": {
+                    "top": 2686,
+                    "bottom": 2710,
+                    "left": 333,
+                    "right": 384,
+                    "width": 51,
+                    "height": 24
+                  },
+                  "snippet": "<th class=\"fc-day-header fc-widget-header fc-sat\">",
+                  "nodeLabel": "Sat"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-110-SPAN",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,1,TBODY,0,TR,0,TD,0,DIV,0,DIV,4,DIV,1,DIV,0,TABLE,0,THEAD,0,TR,2,TD,0,SPAN",
+            "selector": "thead > tr > td.fc-day-top > span.fc-day-number",
+            "boundingRect": {
+              "top": 2968,
+              "bottom": 2996,
+              "left": 158,
+              "right": 180,
+              "width": 23,
+              "height": 28
+            },
+            "snippet": "<span class=\"fc-day-number\">",
+            "nodeLabel": "29",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.06 (foreground color: #ffffff, background color: #fcf8e3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-111-TD",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,TABLE,1,TBODY,0,TR,0,TD,0,DIV,0,DIV,4,DIV,0,DIV,0,TABLE,0,TBODY,0,TR,2,TD",
+                  "selector": "table > tbody > tr > td.fc-day",
+                  "boundingRect": {
+                    "top": 2967,
+                    "bottom": 3031,
+                    "left": 130,
+                    "right": 181,
+                    "width": 51,
+                    "height": 64
+                  },
+                  "snippet": "<td class=\"fc-day fc-widget-content fc-tue fc-today \" data-date=\"2023-08-29\">",
+                  "nodeLabel": "table > tbody > tr > td.fc-day"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 8
+  }
+]

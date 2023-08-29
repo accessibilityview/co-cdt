@@ -1,0 +1,189 @@
+[
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-71-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,0,P,1,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,IMG",
+            "selector": "span > span > span > img",
+            "boundingRect": {
+              "top": 798,
+              "bottom": 925,
+              "left": 15,
+              "right": 143,
+              "width": 128,
+              "height": 127
+            },
+            "snippet": "<img height=\"127\" src=\"https://lh5.googleusercontent.com/YvjADpG4UqSLF44jK4KqpvZos6V_k5mrOzFDrbSs…\" width=\"128\">",
+            "nodeLabel": "span > span > span > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-72-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,8,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,IMG",
+            "selector": "span > span > span > img",
+            "boundingRect": {
+              "top": 1916,
+              "bottom": 2540,
+              "left": 15,
+              "right": 639,
+              "width": 624,
+              "height": 624
+            },
+            "snippet": "<img height=\"624\" src=\"https://lh4.googleusercontent.com/iGrRHfHkvkR1RsIGePAtmni9kHau-KgAVgBs5Wz_…\" width=\"624\">",
+            "nodeLabel": "span > span > span > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-73-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,20,P,0,A,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,IMG",
+            "selector": "span > span > span > img",
+            "boundingRect": {
+              "top": 3834,
+              "bottom": 3863,
+              "left": 169,
+              "right": 198,
+              "width": 29,
+              "height": 29
+            },
+            "snippet": "<img height=\"29\" src=\"https://lh3.googleusercontent.com/2y4XCKdAx3N_p0X6-1mqpnJgrS1_vdOG0MWmoc4L…\" width=\"29\">",
+            "nodeLabel": "span > span > span > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-67-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,20,P,2,A,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,IMG",
+            "selector": "span > span > span > img",
+            "boundingRect": {
+              "top": 3834,
+              "bottom": 3863,
+              "left": 206,
+              "right": 235,
+              "width": 29,
+              "height": 29
+            },
+            "snippet": "<img height=\"29\" src=\"https://lh4.googleusercontent.com/g9ouclShJ9jBDDQbT1lRvrVMfStZDMLGGy87jUQi…\" width=\"29\">",
+            "nodeLabel": "span > span > span > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 4
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-25-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,20,P,0,A",
+            "selector": "div > div.field > p > a",
+            "boundingRect": {
+              "top": 3837,
+              "bottom": 3856,
+              "left": 169,
+              "right": 198,
+              "width": 29,
+              "height": 19
+            },
+            "snippet": "<a href=\"http://www.facebook.com/colotreasurer\" style=\"text-decoration:none\">",
+            "nodeLabel": "div > div.field > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-26-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,20,P,2,A",
+            "selector": "div > div.field > p > a",
+            "boundingRect": {
+              "top": 3837,
+              "bottom": 3856,
+              "left": 206,
+              "right": 235,
+              "width": 29,
+              "height": 19
+            },
+            "snippet": "<a href=\"https://twitter.com/ColoTreasurer\" style=\"text-decoration:none\">",
+            "nodeLabel": "div > div.field > p > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

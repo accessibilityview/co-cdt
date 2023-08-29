@@ -1,0 +1,124 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-81-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,2,DIV,0,DIV,0,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.view-content > div#slick-views-jumbo-sliders-block-1-2 > div.slick__slide > div.jumbo_image",
+            "boundingRect": {
+              "top": 191,
+              "bottom": 641,
+              "left": 0,
+              "right": 1350,
+              "width": 1350,
+              "height": 450
+            },
+            "snippet": "<div class=\"jumbo_image\" style=\"background-image: url(&quot;/sites/treasury/files/styles/flexslider_full/public/…&quot;);\" aria-label=\"Blue sky and capital building \">",
+            "nodeLabel": "Blue sky and capital building ",
+            "explanation": "Fix all of the following:\n  aria-label attribute cannot be used on a div with no valid role attribute."
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-82-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV",
+            "selector": "div > div > div.paragraph > div.jumbo_image",
+            "boundingRect": {
+              "top": 1093,
+              "bottom": 1476,
+              "left": 0,
+              "right": 1350,
+              "width": 1350,
+              "height": 383
+            },
+            "snippet": "<div class=\"jumbo_image\" style=\"background-image: url(&quot;/sites/treasury/files/styles/flexslider_full/public/…&quot;);\" aria-label=\"doorknob\">",
+            "nodeLabel": " \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n ",
+            "explanation": "Fix all of the following:\n  aria-label attribute cannot be used on a div with no valid role attribute."
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "17-83-H4",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,H4",
+            "selector": "div.view-content > div.views-row > div.views-field > h4.field-content",
+            "boundingRect": {
+              "top": 2042,
+              "bottom": 2188,
+              "left": 477,
+              "right": 885,
+              "width": 408,
+              "height": 146
+            },
+            "snippet": "<h4 class=\"field-content text-2xl fw-500\">",
+            "nodeLabel": "8.23.2023: Colorado State Treasurer Dave Young Calls on Federal Trade Commissio…",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

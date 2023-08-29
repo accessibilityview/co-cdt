@@ -1,0 +1,280 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-182-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,FOOTER,0,DIV,0,DIV,0,DIV,0,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h3",
+            "boundingRect": {
+              "top": 6683,
+              "bottom": 6736,
+              "left": 24,
+              "right": 1326,
+              "width": 1302,
+              "height": 53
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "Office of the Treasurer",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-117-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,71,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5412,
+              "bottom": 5431,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Jan%2023%2C%202017%20Agenda.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-119-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,71,UL,1,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5460,
+              "bottom": 5479,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Jan%2023%2C%20Meetings%20new.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-121-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,73,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5556,
+              "bottom": 5575,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Jan%2017%2C%202017%20Agenda.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-123-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,73,UL,1,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5604,
+              "bottom": 5623,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Jan%2017%2C%202017%20Minutes.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-125-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,75,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5700,
+              "bottom": 5719,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Jan%209%2C%202017%20Agenda.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-127-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,75,UL,1,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5748,
+              "bottom": 5767,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Minutes%20Jan9%2C%202017.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-129-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,77,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5844,
+              "bottom": 5863,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Dec%2019%2C%202016%20Agenda.doc\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-131-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,77,UL,1,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5892,
+              "bottom": 5911,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Minutes%20121916.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-133-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,79,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 5988,
+              "bottom": 6007,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Meeting%20Minutes%20121216.pdf\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-135-A",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,DIV,0,MAIN,0,DIV,2,DIV,0,SECTION,1,DIV,0,ARTICLE,1,DIV,0,DIV,81,UL,0,LI,0,A",
+            "selector": "div.field > ul > li > a",
+            "boundingRect": {
+              "top": 6084,
+              "bottom": 6103,
+              "left": 55,
+              "right": 55,
+              "width": 0,
+              "height": 19
+            },
+            "snippet": "<a href=\"/sites/thunderbirdwsd/files/atoms/files/Public%20School%20Fund%20Agenda%20…\">",
+            "nodeLabel": "div.field > ul > li > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 10
+  }
+]
