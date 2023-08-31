@@ -1,0 +1,3230 @@
+[
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-treasurer-dave-young",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accounting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "boards-committees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "best",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "budget-request",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cash-management-assistance-request",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cash-management-bank-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "charter-school-intercept-and-moral-obligation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cash-management-division",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "chfa-loan-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "climber-progress-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "collegeinvest",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "climber-loan-fund-program",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "climber-loan-fund-policies",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-securesavings-program",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "constitutional-provisions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-finances-investing-for-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-us-0",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contracts",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employee-frequently-asked-questions-faqs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "economic-justice",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employee-fact-sheet",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "employer-fact-sheet",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "federal-funds-distribution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "glossary-of-terms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hoja-de-datos-del-empleador",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "financial-empowerment",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 8
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hutf-distributions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "investment-policy",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "investment-portfolio",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "investment-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "investments",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "legal",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "links",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "minutes-and-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 10
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 10
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 20
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-2",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-3",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-4",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "overview-of-debt-and-official-statements",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-working-group",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "page-stuff",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "procurement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "pera",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "property-tax-deferral-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-finance-debt-issuance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-school-fund-investment-board-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-school-fund-investment-board-3",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "revised-uniform-unclaimed-property-rules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-school-fund-policies",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "sb18-247-continuation-of-benefits-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "school-district-intercept-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "security-token-offerings-state-capital-financing-feasibility-study",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "state-revenues",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "state-expenditures",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "treasurer-young-at-club-20-town-hall",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "treasury-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "treasury-short-term-borrowings-gtran-etran",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "treasury-divisions-and-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-treasurer-dave-young",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "best",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "accounting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cash-management-division",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cash-management-assistance-request",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "budget-request",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cash-management-bank-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "boards-committees",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "charter-school-intercept-and-moral-obligation",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "chfa-loan-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "climber-loan-fund-policies",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "climber-progress-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "climber-loan-fund-program",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-finances-investing-for-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "collegeinvest",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contracts",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "constitutional-provisions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-securesavings-program",
+    "lighthouseErrors": [
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-us-0",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "economic-justice",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employee-fact-sheet",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employer-fact-sheet",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "employee-frequently-asked-questions-faqs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "federal-funds-distribution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "financial-empowerment",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 8
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 8
+      }
+    ],
+    "wcagErrorCount": 8
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "glossary-of-terms",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hoja-de-datos-del-empleador",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "aria-allowed-attr",
+        "wcag": [
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-allowed-attr",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hutf-distributions",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "investment-policy",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "investment-portfolio",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "investment-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "investments",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "legal",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "links",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "minutes-and-agendas",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 10
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 10
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 10
+      }
+    ],
+    "wcagErrorCount": 20
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-2",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-4",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-meeting-3",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "page-stuff",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "overview-of-debt-and-official-statements",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "pera",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "procurement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "property-tax-deferral-programs",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-finance-debt-issuance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-climber-small-business-loan-program-oversight-board-working-group",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-school-fund-investment-board-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-school-fund-investment-board-3",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "revised-uniform-unclaimed-property-rules",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "sb18-247-continuation-of-benefits-board",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-school-fund-policies",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "school-district-intercept-program",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "security-token-offerings-state-capital-financing-feasibility-study",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "state-expenditures",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "state-revenues",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "treasurer-young-at-club-20-town-hall",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "treasury-divisions-and-programs",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "treasury-short-term-borrowings-gtran-etran",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "treasury-reports",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/climber-small-business-loan-oversight-board",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/climber-small-business-loan-program-oversight-board-2",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/climber-small-business-loan-oversight-board-2",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/public-school-fund-investment-board-1",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/sb18-247-continuation-of-benefits-board-meeting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "legal/service-of-legal-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "legal/colorado-open-records-requests",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10000",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10002",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10003",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/11222021-colorado-treasurer-issues-public-warning-against-colorado-secure-savings",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 6
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 8,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 6
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/10252022-treasurer-dave-young-reveals-his-list-of-halloween-themed-names-with",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 6,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 4
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 8
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/332023-colorado-treasurer-dave-young-discusses-the-importance-of-saving-at-any-age-on",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 11
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 17,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 11
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 23
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/9262022-colorado-treasurer-dave-young-wants-to-return-23-million-in-cash-to-fort",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/962022-colorado-treasurer-dave-young-wants-to-return-almost-15-million-in-cash-to",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/events",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/colorado-secure-savings-program-board-meeting-2",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/public-school-fund-study-and-report-working-group-meeting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/state-claims-board-meeting-0",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/rural-colorado-resolution-hearing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/state-claims-board-meeting-4",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "legal/colorado-open-records-requests",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "legal/service-of-legal-documents",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10002",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10000",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10003",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/232023-treasurer-dave-young-wraps-up-identity-theft-awareness-week-in-colorado",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 8
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 11,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 8
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 14
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/3232023-state-of-colorado-property-tax-deferral-program-enrollment-ends-april-1st",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 4
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 7,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 4
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 3
+      }
+    ],
+    "wcagErrorCount": 10
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/4252022-colorado-treasurer-dave-young-issues-statement-in-support-of-hb22-1029",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/692023-the-great-colorado-payback-reunites-owner-with-lost-silver-coins-from-his",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 11
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 17,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 11
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 23
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/9262022-the-colorado-treasury-launches-new-bond-investor-transparency-website",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10018",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10431",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10681",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/11001",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 3
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 5,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 3
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 7
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/10311",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "notice-of-public-meeting-co-secure-savings-program-board-1/21/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10316",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10039",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10326",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/11126",
+    "lighthouseErrors": [
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 10
+      },
+      {
+        "id": "link-name",
+        "wcag": [
+          "2.4.4",
+          "4.1.2"
+        ],
+        "errorCount": 6
+      }
+    ],
+    "lighthouseErrorCount": 16,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 10
+      },
+      {
+        "id": "2.4.4",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "link-name",
+        "errorCount": 6
+      }
+    ],
+    "wcagErrorCount": 22
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/10461",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "notice-of-public-meeting-co-secure-savings-program-board-1/21/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/climber-small-business-loan-program-oversight-board-meeting-2/4/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/notice-colorado-secure-savings-program-board-meeting-1/5/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/notice-of-public-meeting-public-school-investment-board-5/17/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/notice-colorado-secure-savings-program-board-meeting-12/10/20",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/notice-of-public-meeting-co-secure-savings-program-board-2/9/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/notice-of-public-meeting-public-school-investment-board-5/17/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "events/public-school-fund-investment-board-2/1/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/climber-small-business-loan-program-oversight-board-meeting-2/4/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/notice-colorado-secure-savings-program-board-meeting-12/10/20",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/notice-colorado-secure-savings-program-board-meeting-1/5/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/notice-of-public-meeting-co-secure-savings-program-board-2/9/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/notice-of-public-meeting-public-school-investment-board-5/17/21",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "events/public-school-fund-investment-board-2/1/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-cdt",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/notice-of-public-meeting-public-school-investment-board-5/17/21",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
